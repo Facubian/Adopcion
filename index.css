@@ -4,6 +4,28 @@ body{
     background: linear-gradient(to right, #12FFF7, #B3FFAB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     text-align: center;
 }
+
 header{
     padding-top: 10px;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
+.carousel{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(30, 63, 124);
+    margin: 25px;
+    padding: 10px;
+    
+}
+.card{
+    background-color: rgb(58, 183, 255);
+
+}
+td{
+    font-size: 17px;
 }
